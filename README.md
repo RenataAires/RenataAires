@@ -13,3 +13,11 @@ Minha experiência em planejamento e controle da produção e melhoria contínua
 ## Em desenvolvimento
 
 **Industrial Data Platform** — Projeto de Engenharia de Dados para apontamentos de produção. Atualmente na fase de modelagem dos dados industriais.
+<details>
+<summary>Ver escopo inicial do Industrial Data Platform</summary>
+
+- Receber apontamentos de produção em arquivos CSV.
+- Validar os registros e preservar os apontamentos rejeitados.
+- Manter o histórico das ingestões e evitar duplicatas na saída validada.
+
+</details>
